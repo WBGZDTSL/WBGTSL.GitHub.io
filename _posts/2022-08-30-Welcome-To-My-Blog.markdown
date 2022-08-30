@@ -1,10 +1,9 @@
 ---
 title: Welcome to My Blog!
 layout: post
-date: '2022-08-30 22:00:00'
-tags:
-- jekyll
-- Blog
+date: 2022-08-30 22:00:00 +0200
+tags:[ jekyll, Blog]
+categories: Blog
 image: Welcome.png
 ---
 
