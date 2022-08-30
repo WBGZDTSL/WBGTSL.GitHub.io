@@ -4,7 +4,7 @@ layout: post
 date: '2022-08-29 01:30:00'
 tags:
 - jekyll
-image: images/Welcome.png
+image: Welcome.png
 ---
 
 ## Hello, I'm Aaron
